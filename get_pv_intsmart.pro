@@ -1,7 +1,8 @@
 ;PRO get_pv_int, hops=hops, evla=evla, snake=snake, fil1=fil1
 ;PRO get_pv_intsmart, cfile, mfile, rfile, namestr, 
-;testing!
-
+;I'm trying to create a merge conflict
+;test!
+; this is a different edit
 
 sortx = 1
 
