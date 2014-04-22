@@ -2,8 +2,6 @@
 ;PRO get_pv_intsmart, cfile, mfile, rfile, namestr, 
 ;testing!
 
-nxtick = 3 ;number of x tickmarks on intint image 
-;set to 0 for default, 2 for grs seg1, 1 for hotseg1 ...
 
 sortx = 1
 
